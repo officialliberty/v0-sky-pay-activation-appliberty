@@ -11,7 +11,7 @@ export function SupportWidget() {
       name: "Email Support",
       icon: Mail,
       action: () => {
-        window.location.href = "mailto:support@skypay.com"
+        window.location.href = "mailto:skypayservice26@gmail.com"
       },
       color: "bg-red-500 hover:bg-red-600",
     },
@@ -19,7 +19,7 @@ export function SupportWidget() {
       name: "WhatsApp",
       icon: MessageCircle,
       action: () => {
-        window.open("https://wa.me/1234567890", "_blank")
+        window.open("https://wa.me/2347085767123", "_blank")
       },
       color: "bg-green-500 hover:bg-green-600",
     },
@@ -27,7 +27,7 @@ export function SupportWidget() {
       name: "Telegram",
       icon: Send,
       action: () => {
-        window.open("https://t.me/skypaysupport", "_blank")
+        window.open("https://t.me/SkyPay26", "_blank")
       },
       color: "bg-blue-500 hover:bg-blue-600",
     },
