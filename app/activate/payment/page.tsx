@@ -128,13 +128,13 @@ export default function PaymentPage() {
               <Label className="text-white text-base font-medium">Account Number</Label>
               <div className="flex gap-2">
                 <Input
-                  value="6066270617"
+                  value="6957666738"
                   readOnly
                   className="bg-[#1a1810] border-[#3d3416] text-white h-12 rounded-xl text-base"
                 />
                 <Button
                   type="button"
-                  onClick={() => handleCopy("6066270617")}
+                  onClick={() => handleCopy("6957666738")}
                   className="bg-[#F5B800] hover:bg-[#d9a500] text-black px-4 rounded-xl"
                 >
                   <Copy className="h-4 w-4" />
@@ -156,7 +156,7 @@ export default function PaymentPage() {
             <div className="space-y-2">
               <Label className="text-white text-base font-medium">Account Name</Label>
               <Input
-                value="SILVER AMARACHI THEOPHILUS"
+                value="SUNDAY CHINEMEREM LIBERTY"
                 readOnly
                 className="bg-[#1a1810] border-[#3d3416] text-white h-12 rounded-xl text-base"
               />
